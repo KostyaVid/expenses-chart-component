@@ -26,9 +26,7 @@ Users should be able to:
 
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://expenses-chart-component-ch6aqmxya-kostyavid.vercel.app)
 
 ## My process
 
