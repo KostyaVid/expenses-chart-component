@@ -40,5 +40,4 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 
 ## Author
--
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/KostyaVid)
+- Frontend Mentor - [@KostyaVid](https://www.frontendmentor.io/profile/KostyaVid)
